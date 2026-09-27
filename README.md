@@ -127,8 +127,8 @@ run the game without opening the project in NetBeans.
 
 Pac-Sweeper was developed as an academic project for the **Intermediate Programming** course.
 
-The project was created to apply Java programming concepts, object-oriented programming,
-GUI development, event handling, game logic, and application development using Java Swing and NetBeans.
+The project applies fundamental Java programming concepts through the development of an interactive Minesweeper game,
+including game logic, event handling, user interface design, and object-oriented programming using Java Swing and NetBeans.
 
 ---
 
