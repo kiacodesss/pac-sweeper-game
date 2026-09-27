@@ -116,6 +116,8 @@ Players reveal cells, avoid hidden mines, use Pac-Man and ghost icons, and place
 
 A ready-to-run version is available under **GitHub Releases**.
 
+**[Download Pac-Sweeper for Windows](../../releases/latest)**
+
 The included JAR file contains the compiled Pac-Sweeper application and can be used to
 run the game without opening the project in NetBeans.
 
